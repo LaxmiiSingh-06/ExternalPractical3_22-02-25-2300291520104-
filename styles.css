@@ -61,7 +61,7 @@ a:hover{
   color: purple
 }
 
-/section one/
+/*section one*/
 
 .section-one{
   height: 80vh;
@@ -119,7 +119,7 @@ button:hover{
 
 }
 
-/section two yahan se/
+/*section two yahan se*/
 .section-two{
   height: 80vh;
   width: 100%;
@@ -189,7 +189,7 @@ button:hover{
 
 }
 
-/section three yahan se/
+/*section three yahan se*/
 
 .section-three{
   height: 80vh;
@@ -234,7 +234,7 @@ button:hover{
 }
 
 
-/section four yahan se/
+/*section four yahan se*/
 
 .section-four{
   height: 80vh;
@@ -284,7 +284,7 @@ button:hover{
   color: black;
 }
 
-/footer yahan se/
+/*footer yahan se*/
 footer{
   height: 80vh;
   width: 100%;
